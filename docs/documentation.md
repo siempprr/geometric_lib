@@ -61,16 +61,25 @@ perimeter(4) -> 16
 ## История изменений проекта
 
 8befc73 (HEAD -> main) Add documentation without change history
+
 b85e827 Add dockstrings
+
 d078c8d (origin/main, origin/HEAD) L-03: Docs added
+
 8ba9aeb L-03: Circle and square added
 
 ## Структура проекта
 
 geometric_lib/
+
 │
+
 ├── circle.py
+
 ├── square.py
+
 ├── docs/
+
     └── documentation.md
+    
     └── README.md
